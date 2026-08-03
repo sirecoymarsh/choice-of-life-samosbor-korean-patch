@@ -1,0 +1,203 @@
+{
+    "schema_version":  2,
+    "patch_id":  "choice-of-life-samosbor-ko-steam-1.08-r2-delta",
+    "game_version":  "1.08",
+    "game_exe":  "Choice of Life - Samosbor.exe",
+    "process_names":  [
+                          "Choice of Life - Samosbor"
+                      ],
+    "source_asset":  {
+                         "path":  "Choice of Life - Samosbor_Data/sharedassets0.assets",
+                         "sha256":  "1467e8a81eebfef7d1f6657ab34462108343bc1297a219a4ce57a4947de40339",
+                         "size":  11098360
+                     },
+    "patched_asset_sha256":  "24b993ad5608c4f57a234ed0f4dcdcecca260fd56c3d4568265983d2f5572713",
+    "translation_count":  4025,
+    "translation_map_sha256":  "f7c5b5cade8dcf9aa90a770456168026b04bec16610508bcac41b4d0e7bfd7bb",
+    "qa_issue_count":  0,
+    "review_issue_count":  0,
+    "changed_unity_object_path_ids":  [
+                                          102,
+                                          104
+                                      ],
+    "cleanup_roots":  [
+                          "BepInEx"
+                      ],
+    "files":  [
+                  {
+                      "path":  ".doorstop_version",
+                      "size":  5,
+                      "sha256":  "75a2f501000d4fe28f74bc7ee66dae5581959d28b6c44f0c1b0c05cd5ba261e6",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/0Harmony.dll",
+                      "size":  204800,
+                      "sha256":  "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/0Harmony.xml",
+                      "size":  267107,
+                      "sha256":  "d1f02fc3ada3a13da307de421225bfe56ebe24064370980979391c4be021672f",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/0Harmony20.dll",
+                      "size":  112640,
+                      "sha256":  "c755a5ab2712915a32f9a850d580a8c1b70ff1653bc76600f2767aa8ffccc663",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.dll",
+                      "size":  128512,
+                      "sha256":  "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.Harmony.dll",
+                      "size":  6656,
+                      "sha256":  "00c8f2ac48593e4d45ce4eb26ce4e68b18113c5c489b38b8bf0850f65830d601",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.Harmony.xml",
+                      "size":  4056,
+                      "sha256":  "a04fedf08f7c81f5d01aba6f2840a7ffce50b79bbd24587d8dbe69ab73971d29",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.Preloader.dll",
+                      "size":  43008,
+                      "sha256":  "55d3895351a9d16b63b6f35f1c01b44ac650979e853d0bd3a442b92a082af64f",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.Preloader.xml",
+                      "size":  7964,
+                      "sha256":  "33275b2783b7b99495a02c098ee86d6a9a2783e884a5c9369021f20c94cf99e7",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/BepInEx.xml",
+                      "size":  89835,
+                      "sha256":  "7ba2266061b9f8a9f146218a312bfdd0d7f2b53a99a7e66c957215c6b66ca0d7",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/HarmonyXInterop.dll",
+                      "size":  23552,
+                      "sha256":  "7ce1342d3afa0334b59a3e38c0aed15e162b9abe9d46f95f34be44af47f3b493",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/Mono.Cecil.dll",
+                      "size":  339456,
+                      "sha256":  "7ae470288fff4a402899c254d0a76cefef55877f5c54f96e83c797cc5bb6e2f6",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/Mono.Cecil.Mdb.dll",
+                      "size":  43008,
+                      "sha256":  "5896d1898f616701fff18f3b2c71e6b844d2390ef9f41e1c5fccce8cb27c698e",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/Mono.Cecil.Pdb.dll",
+                      "size":  86528,
+                      "sha256":  "174db44a067f58561510af746f3caeb032037762c57a31c8d9ee32db25174984",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/Mono.Cecil.Rocks.dll",
+                      "size":  27648,
+                      "sha256":  "54ac539fb5ddc8b44c0e9acd0fcb7324f89d1a072edf8ebc1b06dd691e3d3927",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/MonoMod.RuntimeDetour.dll",
+                      "size":  105984,
+                      "sha256":  "40e49bb314391cd7bddc2644f8553eeba92c194b940836b103df16955c464e0c",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/MonoMod.RuntimeDetour.xml",
+                      "size":  9414,
+                      "sha256":  "54887808960d156550b37d602d08847607aa9e908d039f2765fb0b5e79394aa4",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/MonoMod.Utils.dll",
+                      "size":  187904,
+                      "sha256":  "9d1495f147ac93c4f81f84538c1a326e8f8a6aefc78d6289d798f3ce1162c5e9",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/core/MonoMod.Utils.xml",
+                      "size":  78973,
+                      "sha256":  "0577b362023a3432d6e8d7934c5eddc3e08fdbb19e191af083e341562c5ede38",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "BepInEx/plugins/SamosborKorean/hangul_charset.txt",
+                      "size":  3314,
+                      "sha256":  "77e6c045960ed721a40627b626860c946669454c7434bfbbeda5c46f5b290df5",
+                      "role":  "korean_font_plugin"
+                  },
+                  {
+                      "path":  "BepInEx/plugins/SamosborKorean/NotoSansKR-VF.ttf",
+                      "size":  10415532,
+                      "sha256":  "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0",
+                      "role":  "korean_font_plugin"
+                  },
+                  {
+                      "path":  "BepInEx/plugins/SamosborKorean/OFL.txt",
+                      "size":  4388,
+                      "sha256":  "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9",
+                      "role":  "korean_font_plugin"
+                  },
+                  {
+                      "path":  "BepInEx/plugins/SamosborKorean/SamosborKoreanFont.dll",
+                      "size":  6656,
+                      "sha256":  "07d564123b8dd8f67e94e8dd90a9166ce77dc9160b9c488d16eb2f9524bc8f8f",
+                      "role":  "korean_font_plugin"
+                  },
+                  {
+                      "path":  "changelog.txt",
+                      "size":  338,
+                      "sha256":  "b184d858cb0ff6614ca8ce0247fb0d186cabc91ed7e4d4d9d57ea3d744ce98b5",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "Choice of Life - Samosbor_Data/sharedassets0.assets",
+                      "size":  11168944,
+                      "sha256":  "24b993ad5608c4f57a234ed0f4dcdcecca260fd56c3d4568265983d2f5572713",
+                      "role":  "localized_unity_asset"
+                  },
+                  {
+                      "path":  "doorstop_config.ini",
+                      "size":  1460,
+                      "sha256":  "4d5c6dfa0f771c6a5b1b0c559aca0bd0ece7d08b08fff894708dc3b73ce73cfc",
+                      "role":  "bepinex_runtime"
+                  },
+                  {
+                      "path":  "winhttp.dll",
+                      "size":  26112,
+                      "sha256":  "8c6cdbc38836dee87e3368f5de1994d7c0ccebf29e4ce7aba3c0981f9375412c",
+                      "role":  "bepinex_runtime"
+                  }
+              ],
+    "package_format":  "msdelta-plus-official-dependency-download",
+    "delta":  {
+                  "path":  "payload/patches/sharedassets0.assets.msdelta",
+                  "size":  129693,
+                  "sha256":  "b7bc4ebd1bf2a813ce96176c523d2160e28f70c09df469ae58f644646ca01b63"
+              },
+    "bepinex":  {
+                    "version":  "5.4.23.5",
+                    "architecture":  "win-x64",
+                    "url":  "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip",
+                    "size":  639118,
+                    "sha256":  "82f9878551030f54657792c0740d9d51a09500eeae1fba21106b0c441e6732c4"
+                }
+}

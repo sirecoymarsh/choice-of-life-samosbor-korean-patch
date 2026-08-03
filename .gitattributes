@@ -1,0 +1,7 @@
+# Release hashes are byte-exact; do not normalize line endings.
+* -text
+*.dll binary
+*.ttf binary
+*.assets binary
+*.zip binary
+*.msdelta binary

@@ -1,0 +1,82 @@
+{
+    "schema_version":  2,
+    "package_format":  "source-and-delta",
+    "file_count":  15,
+    "files":  [
+                  {
+                      "path":  ".gitattributes",
+                      "size":  144,
+                      "sha256":  "fe28f6c3ba5ab986e4ae1c845e6ee0a453f5faee45b40686b9b756f43a608d7f"
+                  },
+                  {
+                      "path":  ".gitignore",
+                      "size":  91,
+                      "sha256":  "7da97cef895b81099ce3990d3c7df1f52928aee5da8189b0f28770b323e4555b"
+                  },
+                  {
+                      "path":  "install_manifest.json",
+                      "size":  10022,
+                      "sha256":  "508998b756d5dafc9de07113878954a289693300b132cb394420851a861467a4"
+                  },
+                  {
+                      "path":  "Install_Steam_KO.ps1",
+                      "size":  11879,
+                      "sha256":  "50b8c40c1fdf65c98b00c36c192f1c960a81bb8da616184278db2c9c4daeba61"
+                  },
+                  {
+                      "path":  "payload/BepInEx/plugins/SamosborKorean/hangul_charset.txt",
+                      "size":  3314,
+                      "sha256":  "77e6c045960ed721a40627b626860c946669454c7434bfbbeda5c46f5b290df5"
+                  },
+                  {
+                      "path":  "payload/BepInEx/plugins/SamosborKorean/NotoSansKR-VF.ttf",
+                      "size":  10415532,
+                      "sha256":  "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0"
+                  },
+                  {
+                      "path":  "payload/BepInEx/plugins/SamosborKorean/OFL.txt",
+                      "size":  4388,
+                      "sha256":  "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+                  },
+                  {
+                      "path":  "payload/BepInEx/plugins/SamosborKorean/SamosborKoreanFont.dll",
+                      "size":  6656,
+                      "sha256":  "07d564123b8dd8f67e94e8dd90a9166ce77dc9160b9c488d16eb2f9524bc8f8f"
+                  },
+                  {
+                      "path":  "payload/patches/sharedassets0.assets.msdelta",
+                      "size":  129693,
+                      "sha256":  "b7bc4ebd1bf2a813ce96176c523d2160e28f70c09df469ae58f644646ca01b63"
+                  },
+                  {
+                      "path":  "README.md",
+                      "size":  2846,
+                      "sha256":  "0c5cf39fe5d5bab94fa94c5dfbd23daf3d70bea6f889bb00a37e60ea5eafc81b"
+                  },
+                  {
+                      "path":  "README_KO.md",
+                      "size":  2846,
+                      "sha256":  "0c5cf39fe5d5bab94fa94c5dfbd23daf3d70bea6f889bb00a37e60ea5eafc81b"
+                  },
+                  {
+                      "path":  "Restore_Steam_KO.ps1",
+                      "size":  4891,
+                      "sha256":  "67d3a7c8bcdc5494c7ac925e48876be0d98bcb1a82743ec01d2e82c3a97e6ec9"
+                  },
+                  {
+                      "path":  "src/SamosborKoreanFont.cs",
+                      "size":  4502,
+                      "sha256":  "248c84210b21858f123ed7168b2fd87c5af07eb9e4faed19f0432587025a7b3b"
+                  },
+                  {
+                      "path":  "tools/MsDeltaTool.cs",
+                      "size":  3946,
+                      "sha256":  "bbd99837588331af45df77dc217c7a2bf013b3275595d8509f303b8cf90ecf41"
+                  },
+                  {
+                      "path":  "Verify_Steam_KO.ps1",
+                      "size":  2604,
+                      "sha256":  "154ce257bc94c18c09ac88bd6dd06c25d137ce316d1a349ccae995d27f91809f"
+                  }
+              ]
+}

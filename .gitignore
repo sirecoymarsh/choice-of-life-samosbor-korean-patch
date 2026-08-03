@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+BepInEx/cache/
+BepInEx/config/
+BepInEx/LogOutput.log

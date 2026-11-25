@@ -50,13 +50,13 @@
                   },
                   {
                       "path":  "README.md",
-                      "size":  2846,
-                      "sha256":  "0c5cf39fe5d5bab94fa94c5dfbd23daf3d70bea6f889bb00a37e60ea5eafc81b"
+                      "size":  7849,
+                      "sha256":  "84cef6ce09d16ab33518cc04c924a0d05a3bd37a365fc2b6d4253d8e65767700"
                   },
                   {
                       "path":  "README_KO.md",
-                      "size":  2846,
-                      "sha256":  "0c5cf39fe5d5bab94fa94c5dfbd23daf3d70bea6f889bb00a37e60ea5eafc81b"
+                      "size":  7849,
+                      "sha256":  "84cef6ce09d16ab33518cc04c924a0d05a3bd37a365fc2b6d4253d8e65767700"
                   },
                   {
                       "path":  "Restore_Steam_KO.ps1",
